@@ -1,5 +1,5 @@
 # simpleProfile
-Copyright (C) 2019 Patrick Mifsud
+Copyright (C) 2019 Nick Archon
 
 A simple portfolio site template for a The RMIT Programming Club workshop
 
